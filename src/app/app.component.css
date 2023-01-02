@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+input
+{
+    border: none;
+}
+#a
+{
+    text-align: end;
+}
+#outbox
+{
+    height: 580px;width:80%;background-color:whitesmoke;
+}
+#textbox
+{
+    padding-left:85px;
+}
+*
+{
+    font-size:20px;
+}
+textarea
+{
+    width: 60%;height: 200px;
+}
+p{
+    color: red;
+}
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+  }
+  #t{
+      padding-left:85px;
+  }
